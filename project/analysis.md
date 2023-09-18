@@ -1,6 +1,7 @@
 Product :
 - name 
 - image 
+- images
 - flag
 - review :
     - image
@@ -10,7 +11,11 @@ Product :
     - review
 - price
 - sku
-- brand
+- brand :
+    - name
+    - image
+    - products count
+
 - reviews count
 - subtitle
 - tage
